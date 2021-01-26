@@ -1,8 +1,5 @@
 #EXTM3U Albdroid TV
-#EXTINF:-1 tvg-ID="" tvg-name="MAASRANGA TV" tvg-logo="" group-title="",MAASRANGA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SOMOY TV" tvg-logo="" group-title="",SOMOY TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NTV" tvg-logo="" group-title="",NTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MY TV" tvg-logo="" group-title="",MY TV
